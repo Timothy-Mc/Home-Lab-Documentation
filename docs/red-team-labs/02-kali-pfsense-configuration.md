@@ -125,4 +125,4 @@ After the ISO has been download, add it to **Proxmox** and create VM
 ---
 ## Next Steps:
 In the next part, will be:
-- [[03-active-directory| Building an Active Directory]]
+-[Building an Active Directory] (https://github.com/Timothy-Mc/Home-Lab-Documentation/blob/main/docs/red-team-labs/03-active-directory.md)
