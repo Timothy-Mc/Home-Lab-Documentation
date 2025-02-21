@@ -14,11 +14,11 @@ This lab is designed for **ethical hacking, penetration testing, and security re
 /home-lab-setup/
 │── docs/
 │   ├── red-team-labs/
+│   │    ├── overview.md
 │   │    ├── 01-network-configuration.md
 │   │    ├── 02-kali-pfsense-configuration.mb
 │   │    ├── 03-active-directory.md
-│   │    ├──
-│   │    └──
+│   │    └── 04-web-vulnerabilites.md
 │   │
 │   └── blue-team-labs/
 │         ├──

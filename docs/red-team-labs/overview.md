@@ -14,6 +14,7 @@ This guide will walk you through setting up a **Red Team-oriented home lab** wit
 ## Guides Included
 - [01-network-configuration.md](01-network-configuration.md) – Initial network setup and segmentation.
 - [02-kali-pfsense-configuration.md](02-kali-pfsense-configuration.md) – Configuring pfSense with Kali Linux for network access and filtering.
-- *(More guides coming soon...)*
+- [03-active-directory](03-active-directory.md) - Deploying an Active Directory domain on Proxmox with Windows Server, network configuration, and domain integration.
+- [04-web-vulnerabilites.md](04-web-vulnerabilites.md) - Setting up a Security Home Lab with Ubuntu Server, Docker, and Portainer for deploying vulnerable web applications like bWAPP, DVWA, and WebGoat.
 
-Additional lab configurations and penetration testing methodologies will be added over time.
+Additional lab configurations and penetration testing methodologies will be added overtime.

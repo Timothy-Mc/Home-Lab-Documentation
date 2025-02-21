@@ -89,4 +89,4 @@ apt install openvswitch-switch
 ---
 ## Next Steps
 In the next part, will be:
-- [Configuring Kali Linux and completing pfSense setup](https://github.com/Timothy-Mc/Home-Lab-Documentation/blob/main/docs/red-team-labs/02-kali-pfsense-configuration.md)
+- [Configuring Kali Linux and completing pfSense setup](02-kali-pfsense-configuration.md)

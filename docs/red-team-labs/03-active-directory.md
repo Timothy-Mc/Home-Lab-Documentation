@@ -6,8 +6,7 @@
 
 - **Windows Server 2022**: Have to find download.
 - **Windows 10**: Have to find download.
-- **VirtIO Drivers**: [GitHub - VirtIO-Win](https://github.com/virtio-win/virtio-win-pkg-scripts)
-    
+- **VirtIO Drivers**: [GitHub - VirtIO-Win](https://github.com/virtio-win/virtio-win-pkg-scripts) 
 
 ---
 
@@ -212,4 +211,5 @@ Setting up a Windows ISO on Proxmox requires additional configuration. Follow th
 
 ## Next Steps
 
-Next, we will configure [Vulnerable Web Applications](https://github.com/Timothy-Mc/Home-Lab-Documentation/blob/main/docs/red-team-labs/04-web-vulnerabilites.md).
+In the next part, will be:
+- [Vulnerable Web Applications](04-web-vulnerabilites.md).
