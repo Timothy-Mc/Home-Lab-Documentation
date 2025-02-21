@@ -212,4 +212,4 @@ Setting up a Windows ISO on Proxmox requires additional configuration. Follow th
 
 ## Next Steps
 
-The Active Directory setup is complete. Next, we will configure **Vulnerable Web Applications**.
+Next, we will configure [Vulnerable Web Applications](https://github.com/Timothy-Mc/Home-Lab-Documentation/blob/main/docs/red-team-labs/04-web-vulnerabilites.md).
